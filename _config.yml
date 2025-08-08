@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "jincheng Gong"
+title                    : "Jincheng Gong"
 description              : "Focusing on Maritime Big Data Mining and Reliability Engineering."
 repository               : "naclcode/naclcode.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "jincheng Gong"
+  name             : "Jincheng Gong"
   avatar           : "images/avatar.jpg"
   bio              : "Wuhan University of Technology"
   location         : "Wuhan, China"
