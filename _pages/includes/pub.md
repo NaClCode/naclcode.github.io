@@ -6,7 +6,7 @@
 [Uncertainty-aware ship trajectory prediction via Spatio-Temporal Graph Transformer](https://www.sciencedirect.com/science/article/pii/S1366554525003564) \\
 **Jincheng Gong**, Huanhuan Li, Hang Jiao, Zaili Yang
 
-[**Project**](https://github.com/NaClCode/STGTP)  **\|** ![STGTP](https://img.shields.io/github/stars/NaClCode/STGTP?style=social)  <strong><span class='show_paper_citations' data='xUX47IsAAAAJ:mVmsd5A6BfQC'></span></strong>
+[**Project**](https://github.com/NaClCode/STGTP)  **\|** ![STGTP](https://img.shields.io/github/stars/NaClCode/STGTP?style=social)  <strong><span class='show_paper_citations' data='RWWijlcAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 - Introduced a novel ship trajectory prediction benchmark for Maritime Autonomous Surface Ships (MASS).
 - Developed an advanced trajectory prediction algorithm that integrates spatio-temporal and probabilistic modelling.
