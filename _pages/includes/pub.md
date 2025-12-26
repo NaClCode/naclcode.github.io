@@ -29,7 +29,6 @@ Hang Jiao, **Jincheng Gong**, Huanhuan Li, Jasmine Siu Lee Lam, Yaqing Shu, Jin 
 - Introduce an adaptive graph-masked Transformer for dynamic ship interaction modelling, capturing complex spatial relationships.
 - Combine local convolution and global LLM inference for effective multi-scale temporal modelling.
 - Establish a system for trajectory uncertainty quantification using 2D Gaussian heatmaps and Geohash-based encoding.
-- Outperform state-of-the-art methods on three AIS datasets, achieving lower ADE, FD, and FDE.
 
 </div>
 </div>
