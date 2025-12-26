@@ -12,5 +12,17 @@
 - Developed an advanced trajectory prediction algorithm that integrates spatio-temporal and probabilistic modelling.
 - Pioneered an uncertainty-aware feature modelling approach to improve prediction reliability and interpretability.
 - Validated the model’s performance across three benchmark datasets using three key evaluation metrics.
+
+[LLM4STP: A large language model-driven multi-feature fusion method for ship trajectory prediction](https://www.sciencedirect.com/science/article/pii/S1366554525006271) \\
+Hang Jiao, **Jincheng Gong**, Huanhuan Li, Jasmine Siu Lee Lam, Yaqing Shu, Jin Wang, Zaili Yang
+
+[**Project**](https://github.com/Joker-hang/LLM4STP)  **\|** ![LLM4STP](https://img.shields.io/github/stars/Joker-hang/LLM4STP?style=social)  <strong><span class='show_paper_citations' data='RWWijlcAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Propose LLM4STP, a novel multi-feature fusion method integrating LLMs and maritime knowledge for improved ship trajectory prediction.
+- Introduce an adaptive graph-masked Transformer for dynamic ship interaction modelling, capturing complex spatial relationships.
+- Combine local convolution and global LLM inference for effective multi-scale temporal modelling.
+- Establish a system for trajectory uncertainty quantification using 2D Gaussian heatmaps and Geohash-based encoding.
+- Outperform state-of-the-art methods on three AIS datasets, achieving lower ADE, FD, and FDE.
+
 </div>
 </div>
