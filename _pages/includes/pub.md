@@ -13,6 +13,13 @@
 - Pioneered an uncertainty-aware feature modelling approach to improve prediction reliability and interpretability.
 - Validated the model’s performance across three benchmark datasets using three key evaluation metrics.
 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part E</div><img src='images/llm4stp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [LLM4STP: A large language model-driven multi-feature fusion method for ship trajectory prediction](https://www.sciencedirect.com/science/article/pii/S1366554525006271) \\
 Hang Jiao, **Jincheng Gong**, Huanhuan Li, Jasmine Siu Lee Lam, Yaqing Shu, Jin Wang, Zaili Yang
 
