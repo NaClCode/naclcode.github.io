@@ -7,8 +7,8 @@ import os
 print("Start...")
 
 pg = ProxyGenerator()
-pg.FreeProxies()  # Use free rotating proxies
-scholarly.use_proxy(pg)
+# pg.FreeProxies()  # Use free rotating proxies
+# scholarly.use_proxy(pg)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
