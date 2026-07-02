@@ -31,4 +31,20 @@ Hang Jiao, **Jincheng Gong**, Huanhuan Li, Jasmine Siu Lee Lam, Yaqing Shu, Jin 
 - Establish a system for trajectory uncertainty quantification using 2D Gaussian heatmaps and Geohash-based encoding.
 
 </div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transport policy</div><img src='images/cyber.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cybersecurity in smart port systems: A systematic review and data-driven research agenda](https://www.sciencedirect.com/science/article/pii/S0967070X26002787) \\
+Yunfeng Zhao, **Jincheng Gong**, Huanhuan Li, Trung Thanh Nguyen, Christian Matthews, Zaili Yang
+
+<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Examines attack scenarios, technologies, and policy evolution in smart port cybersecurity.
+- Reviews smart port cybersecurity literature to identify key research clusters and emerging themes.
+- Utilises empirical data from the Maritime Cyber Attack Database (MCAD) to construct a global cyber-attack map.
+- Identifies six research challenges, including CPS vulnerabilities, human factors, and AI-related threats.
+</div>
 </div>
