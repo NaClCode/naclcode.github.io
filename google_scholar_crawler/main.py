@@ -6,7 +6,7 @@ import os
 print("Start...")
 
 try:
-    author = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+    author = scholarly.search_author_id('RWWijlcAAAAJ')
     scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
     
     name = author['name']
@@ -18,7 +18,7 @@ try:
     
     os.makedirs('results', exist_ok=True)
     with open('results/gs_data.json', 'w') as outfile:
-        json.dump(author, outfile, ensure_ascii=False)
+        json.dump(author, outfile, ensure_ascii=False, indent=2)
         
 except Exception as e:
     print(f"Error: {e}")

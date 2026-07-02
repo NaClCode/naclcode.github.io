@@ -40,7 +40,7 @@ Hang Jiao, **Jincheng Gong**, Huanhuan Li, Jasmine Siu Lee Lam, Yaqing Shu, Jin 
 [Cybersecurity in smart port systems: A systematic review and data-driven research agenda](https://www.sciencedirect.com/science/article/pii/S0967070X26002787) \\
 Yunfeng Zhao, **Jincheng Gong**, Huanhuan Li, Trung Thanh Nguyen, Christian Matthews, Zaili Yang
 
-<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:u-x6o8ySG0sC'></span></strong>
+<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 - Examines attack scenarios, technologies, and policy evolution in smart port cybersecurity.
 - Reviews smart port cybersecurity literature to identify key research clusters and emerging themes.
