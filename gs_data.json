@@ -18,7 +18,7 @@
   ],
   "email_domain": "@whut.edu.cn",
   "homepage": "https://www.jinchenggong.me/",
-  "citedby": 19,
+  "citedby": 20,
   "publications": {
     "RWWijlcAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
@@ -30,7 +30,7 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 13,
+      "num_citations": 14,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15052481282793386037",
       "cites_id": [
         "15052481282793386037"
@@ -65,14 +65,14 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 19,
+  "citedby5y": 20,
   "hindex": 2,
   "hindex5y": 2,
   "i10index": 1,
   "i10index5y": 1,
   "cites_per_year": {
     "2025": 2,
-    "2026": 17
+    "2026": 18
   },
-  "updated": "2026-07-03 00:10:52.506076"
+  "updated": "2026-07-06 09:05:40.733848"
 }
