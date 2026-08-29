@@ -9,16 +9,16 @@
   "scholar_id": "RWWijlcAAAAJ",
   "source": "AUTHOR_PROFILE_PAGE",
   "name": "Jincheng Gong",
-  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RWWijlcAAAAJ&citpid=2",
-  "affiliation": "Wuhan University of Technology",
-  "organization": 13397042225809101440,
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RWWijlcAAAAJ&citpid=9",
+  "affiliation": "University of Electronic Science and Technology of China",
+  "organization": 9610860646987207346,
   "interests": [
     "Maritime Big Data Mining",
     "Reliability Engineering"
   ],
-  "email_domain": "@whut.edu.cn",
+  "email_domain": "@std.uestc.edu.cn",
   "homepage": "https://www.jinchenggong.me/",
-  "citedby": 25,
+  "citedby": 35,
   "publications": {
     "RWWijlcAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
@@ -30,7 +30,7 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 18,
+      "num_citations": 24,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15052481282793386037",
       "cites_id": [
         "15052481282793386037"
@@ -46,7 +46,7 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 7,
+      "num_citations": 10,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17198769545313879669",
       "cites_id": [
         "17198769545313879669"
@@ -62,17 +62,33 @@
       },
       "filled": false,
       "author_pub_id": "RWWijlcAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17534990942758526253",
+      "cites_id": [
+        "17534990942758526253"
+      ]
+    },
+    "RWWijlcAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data Clustering and Machine Learning in the Internet of Marine Things",
+        "pub_year": "2026",
+        "citation": "Big Data Analytics for Internet of Marine Things, 1-26, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "RWWijlcAAAAJ:qjMakFHDy7sC",
       "num_citations": 0
     }
   },
-  "citedby5y": 25,
+  "citedby5y": 35,
   "hindex": 2,
   "hindex5y": 2,
-  "i10index": 1,
-  "i10index5y": 1,
+  "i10index": 2,
+  "i10index5y": 2,
   "cites_per_year": {
     "2025": 2,
-    "2026": 23
+    "2026": 32
   },
-  "updated": "2026-07-29 11:24:28.491454"
+  "updated": "2026-08-29 17:34:02.146885"
 }
