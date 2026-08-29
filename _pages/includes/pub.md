@@ -48,3 +48,18 @@ Yunfeng Zhao, **Jincheng Gong**, Huanhuan Li, Trung Thanh Nguyen, Christian Matt
 - Identifies six research challenges, including CPS vulnerabilities, human factors, and AI-related threats.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book chapter</div><img src='images/cluster.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Data Clustering and Machine Learning in the Internet of Marine Things](https://link.springer.com/chapter/10.1007/978-3-032-28171-5_1) \\
+Huanhuan Li, **Jincheng Gong**, Zaili Yang 
+
+<strong><span class='show_paper_citations' data='RWWijlcAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This chapter reviews IoMT data clustering and ML methods with CiteSpace-based mapping of research trends.
+- It showcases these methods in maritime safety, routing, port operations, and environmental monitoring via case studies.
+- Key challenges addressed include data quality, scalability, and cybersecurity.
+- Future directions focus on AI, digital twins, LLMs, and multimodal Transformers for autonomous maritime systems.
+</div>
+</div>
