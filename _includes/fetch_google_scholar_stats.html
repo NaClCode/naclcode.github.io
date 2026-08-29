@@ -1,6 +1,6 @@
 <script>
     $(document).ready(function () {
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/main/gs_data.json'
+        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/main/google_scholar_crawler/results/gs_data.json'
         $.getJSON(gsDataBaseUrl, function (data) {
             
             var citationEles = document.getElementsByClassName('show_paper_citations')
